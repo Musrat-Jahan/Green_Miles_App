@@ -25,8 +25,11 @@ Develop a functional Android app within **12 weeks** that:
 
 **Product Manager:** Troy Kippen
 **Team Members:**
+
 Development Team : Meet, Rahil, Rafsan
+
 Frontend Team: Tran , Musrat
+
 Testing Team: Musrat , Tran
 
 **Academic Supervisor:** Charles
